@@ -29,10 +29,14 @@ Next time generate a new PHP key for work
 - Remove linked accounts from account switcher on Google
 - Unsubscribe from work calendars in Google Calendar
 - Remove account from mac OS linked/messages.app/Internet Accounts
+
+## Session invalidation
+
 - Go to banking sites and make sure not signed in/computers not remembered
 - Invalidate sessions on GitHub <https://github.com/settings/security>
 - Invalidate sessions and unlink devices on Dropbox
   <https://www.dropbox.com/account/security>
+- JIRA / Confluence / Bamboo
 
 ## Personal Info
 
