@@ -27,6 +27,9 @@ Next time generate a new PHP key for work
 - Remove account from mac OS linked/messages.app/Internet Accounts
 - Go to banking sites and make sure not signed in/computers not remembered
 
+- Invalidate sessions and unlink devices on Dropbox
+  <https://www.dropbox.com/account/security>
+
 ## Personal Info
 
 - Update LinkedIn / Google+ / Facebook
