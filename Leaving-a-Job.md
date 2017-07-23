@@ -17,7 +17,7 @@ Cleaning up personal security after leaving a job
 
 ## PGP
 
-Next time generate a new PHP key for work
+Next time generate a new PGP key for work
 
 - Remove work email from PGP key on keybase.io
 - Update local PGP keys from keybase.io server
