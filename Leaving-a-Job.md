@@ -39,6 +39,7 @@ Next time generate a new PGP key for work
 - Facebook
   <https://www.facebook.com/settings?tab=security&section=sessions&view>
 - JIRA / Confluence / Bamboo
+- Sign out of Spotify
 
 ## Personal Info
 
