@@ -36,6 +36,8 @@ Next time generate a new PGP key for work
 - Invalidate sessions on GitHub <https://github.com/settings/security>
 - Invalidate sessions and unlink devices on Dropbox
   <https://www.dropbox.com/account/security>
+- Facebook
+  <https://www.facebook.com/settings?tab=security&section=sessions&view>
 - JIRA / Confluence / Bamboo
 
 ## Personal Info
