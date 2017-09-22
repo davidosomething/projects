@@ -4,7 +4,7 @@ Cleaning up personal security after leaving a job
 
 ## SSH
 
-- Remove work SSH key from GitHub, Bitbucket, etc.
+- Remove work SSH key from GitHub, GitLab, Bitbucket, etc.
     - <https://github.com/settings/keys>
 - Remove work SSH keys from authorized users
 - Removed work SSH configs
