@@ -13,7 +13,7 @@ Cleaning up personal security after leaving a job
 
 - Revoke work GitHub tokens <https://github.com/settings/tokens>
     - There may be tokens for Homebrew, Composer, NPM, Travis CI
-- Revoke work NPM token from NPM site
+- Revoke work NPM token from NPM site <https://www.npmjs.com/settings/tokens>
 
 ## PGP
 
@@ -29,6 +29,7 @@ Next time generate a new PGP key for work
 - Remove linked accounts from account switcher on Google
 - Unsubscribe from work calendars in Google Calendar
 - Remove account from mac OS linked/messages.app/Internet Accounts
+    - Disconnect iTunes store
 
 ## Session invalidation
 
@@ -41,6 +42,17 @@ Next time generate a new PGP key for work
 - JIRA / Confluence / Bamboo
 - Sign out of Spotify
 
+## Apps
+
+- Sign out and uninstall all installed apps
+
+## Wipe
+
+- Delete all user data
+- Create new admin account on computer, log in and delete old account
+- Reinstall OS if possible, using secure erase
+
 ## Personal Info
 
 - Update LinkedIn / Google+ / Facebook
+
