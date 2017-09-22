@@ -30,6 +30,7 @@ Next time generate a new PGP key for work
 - Unsubscribe from work calendars in Google Calendar
 - Remove account from mac OS linked/messages.app/Internet Accounts
     - Disconnect iTunes store
+- Remove personal Facebook account from Facebook Pages admin
 
 ## Session invalidation
 
