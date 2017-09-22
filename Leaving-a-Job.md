@@ -1,6 +1,11 @@
 # Leaving a Job
 
-Cleaning up personal security after leaving a job
+Cleaning up after leaving a job
+
+## Self
+
+- Take down metrics on code commits, reviews, job responsibilities
+- Get people's contact info for references
 
 ## SSH
 
@@ -31,6 +36,7 @@ Next time generate a new PGP key for work
 - Remove account from mac OS linked/messages.app/Internet Accounts
     - Disconnect iTunes store
 - Remove personal Facebook account from Facebook Pages admin
+- Same for Instagram, Twitter, etc. and linked accounts
 
 ## Session invalidation
 
