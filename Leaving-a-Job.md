@@ -52,6 +52,7 @@ Next time generate a new PGP key for work
 ## Apps
 
 - Sign out and uninstall all installed apps
+    - e.g. Spotify, Chrome
 
 ## Wipe
 
